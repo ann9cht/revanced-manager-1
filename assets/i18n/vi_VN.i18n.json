@@ -187,6 +187,8 @@
     "showUpdateDialogHint": "Hiển thị hộp thoại khi có bản cập nhật mới",
     "universalPatchesLabel": "Hiện bản vá phổ quát",
     "universalPatchesHint": "Hiển thị tất cả các ứng dụng và bản vá phổ quát (có thể gây chậm danh sách ứng dụng)",
+    "ripLibsLabel": "Loại bỏ thư viện không cần thiết",
+    "ripLibsHint": "Chỉ biên dịch kiến trúc phù hợp với thiết bị",
     "lastPatchedAppLabel": "Lưu ứng dụng đã vá",
     "lastPatchedAppHint": "Lưu bản vá gần nhất để cài đặt hoặc xuất sau",
     "versionCompatibilityCheckLabel": "Kiểm tra khả năng tương thích phiên bản",
