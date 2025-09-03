@@ -45,7 +45,7 @@ android {
 
             signingConfig = signingConfigs["debug"]
 
-            ndk.abiFilters += listOf("armeabi-v7a", "arm64-v8a", "x86_64")
+            ndk.abiFilters += listOf("arm64-v8a")
         }
 
         release {
